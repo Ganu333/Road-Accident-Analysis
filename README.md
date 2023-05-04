@@ -1,6 +1,6 @@
 # Road-Accident-Analysis
 
-Creating a road accident analysis Power BI report can be a valuable project to help stakeholders understand and prevent road accidents. Here i  do analysis and do some operation for data cleaning and modelling.
+Created a road accident analysis Power BI report can be a valuable project to help stakeholders understand and prevent road accidents. Here i  do analysis and do some operation for data cleaning and modelling.
 
 ## Method
 * Used time intelligence function and calender date table function.
